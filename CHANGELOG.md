@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/julong1988/winston-mongodb/compare/v1.0.0...v1.0.1) (2021-09-25)
+
+
+### Bug Fixes
+
+* **common:** package module추가 ([be36116](https://github.com/julong1988/winston-mongodb/commit/be36116964f594d3c4ca9c2290eeb0c8b7c452e2))
+
 # 1.0.0 (2021-09-25)
 
 

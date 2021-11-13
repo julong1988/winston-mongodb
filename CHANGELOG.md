@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jl917/winston-mongodb/compare/v1.0.1...v1.0.2) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([0e54510](https://github.com/jl917/winston-mongodb/commit/0e54510638a37f17dc45dcc0541994c6ea424078))
+
 ## [1.0.1](https://github.com/jl917/winston-mongodb/compare/v1.0.0...v1.0.1) (2021-09-25)
 
 

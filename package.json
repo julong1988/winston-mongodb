@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/julong1988/winston-mongodb.git"
+    "url": "git+https://github.com/jl917/winston-mongodb.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julong1988/winston-mongodb/issues"
+    "url": "https://github.com/jl917/winston-mongodb/issues"
   },
-  "homepage": "https://github.com/julong1988/winston-mongodb#readme",
+  "homepage": "https://github.com/jl917/winston-mongodb#readme",
   "dependencies": {
     "mongodb": "^4.1.2",
     "winston-transport": "^4.4.0"

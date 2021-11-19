@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/jl917/winston-mongodb/compare/v1.0.2...v1.0.3) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([f1a9971](https://github.com/jl917/winston-mongodb/commit/f1a9971f529ee31239a5b7135c5f9ab57bb84822))
+
 ## [1.0.2](https://github.com/jl917/winston-mongodb/compare/v1.0.1...v1.0.2) (2021-11-13)
 
 
